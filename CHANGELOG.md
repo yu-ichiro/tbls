@@ -1,5 +1,8 @@
 # Changelog
 
+## [v1.64.2](https://github.com/k1LoW/tbls/compare/v1.64.1...v1.64.2) - 2023-04-04
+- Add lint rule `lint.requireTableLabels:` by @k1LoW in https://github.com/k1LoW/tbls/pull/463
+
 ## [v1.64.1](https://github.com/k1LoW/tbls/compare/v1.64.0...v1.64.1) - 2023-04-03
 - Add more workaround by @k1LoW in https://github.com/k1LoW/tbls/pull/461
 
